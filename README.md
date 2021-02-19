@@ -5,6 +5,8 @@
 - This (or any custom) repo is not supported in official bot support group.
 - So if you have any issue then check first that issue is in official repo or not, You are only allowed to report that issue in bot support group if that issue is also present in official repo.
 
+https://heroku.com/deploy
+
 ## Features Coming soon....
 - ~Custom Filename~ Added 
 ```
